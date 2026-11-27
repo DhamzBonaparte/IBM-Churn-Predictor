@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 /Notebooks/IBM.log
+/Notebooks/EDA.html
 
 # C extensions
 *.so
