@@ -3,8 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+/Notebooks/IBM.log
+
 # C extensions
 *.so
+Logs
 
 # Distribution / packaging
 .Python
