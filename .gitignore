@@ -5,8 +5,8 @@ __pycache__/
 
 /Notebooks/IBM.log
 /Notebooks/EDA.html
-/Notebooks/mlflow.db
-/mlartifacts
+mlflow.db
+./mlartifacts
 
 # C extensions
 *.so
